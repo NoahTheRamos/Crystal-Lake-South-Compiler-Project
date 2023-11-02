@@ -1,4 +1,4 @@
-# Crytal Lake South High School - Interpreter
+# Crytal Lake South High School - Compiler
 
 This is an intepreted language designed by students at a high school in a Chicago suburb known as Crystal Lake. There will be specific instructions on how you can contribute and have your code pushed to the main repository. 
 
