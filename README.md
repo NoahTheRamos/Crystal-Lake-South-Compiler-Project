@@ -8,3 +8,4 @@ This language is primarily designed for beginners to learn programming concepts 
 This is a community project, everyone plays a part. The maintainer [Noah Ramos](https://www.github.com/NoahTheRamos) may answer any questions you have about the interpreter and how to contribute.
 
 
+**STARTING AS A C INTERPRETER FOR LEARNING**
